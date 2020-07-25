@@ -23,6 +23,7 @@ export default {
 :root {
   --expense-dark: #161925;
   --expense-white: #FDFFFC;
+  --expense-white-medium: #e7ebe5;
   --expense-blue: #235789;
   --expense-red: #C1292E;
   --expense-yellow: #F1D302;
