@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <base-spinner />
-    <!-- <router-view/> -->
+    <router-view/>
   </div>
 </template>
 
